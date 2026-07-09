@@ -1,0 +1,6 @@
+{
+  "name": "Dubai Luxury Real Estate",
+  "description": "Exclusive luxury real estate brokerage in Dubai for high-net-worth individuals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
